@@ -84,3 +84,5 @@ def checkQueen(starting_pos, ending_pos):
         return True
 
     return False
+
+
